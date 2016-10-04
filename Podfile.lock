@@ -1,0 +1,45 @@
+PODS:
+  - Branch (0.12.10):
+    - Branch/Core (= 0.12.10)
+    - Branch/without-IDFA (= 0.12.10)
+  - Branch/Core (0.12.10)
+  - Branch/without-IDFA (0.12.10)
+  - Fabric (1.6.8)
+  - Mapbox-iOS-SDK (3.3.4)
+  - mopub-ios-sdk (4.9.1):
+    - mopub-ios-sdk/MoPubSDK (= 4.9.1)
+  - mopub-ios-sdk/MoPubSDK (4.9.1)
+  - PubNub (4.5.2):
+    - PubNub/Core (= 4.5.2)
+  - PubNub/Core (4.5.2)
+  - SpeechKit (2.1.7)
+  - Stripe (8.0.7)
+  - TwitterCore (2.4.0):
+    - Fabric
+  - TwitterKit (2.4.0):
+    - TwitterCore (= 2.4.0)
+
+DEPENDENCIES:
+  - Branch
+  - Fabric
+  - Mapbox-iOS-SDK
+  - mopub-ios-sdk
+  - PubNub
+  - SpeechKit
+  - Stripe
+  - TwitterKit (~> 2.4)
+
+SPEC CHECKSUMS:
+  Branch: 371ebad8c506e7a808db8d7840108d3de3007c1e
+  Fabric: 5755268d0171435ab167e3d0878a28a777deaf10
+  Mapbox-iOS-SDK: b22da0d9703fcfb0a8b592b6a7f6a21264fe44b0
+  mopub-ios-sdk: a2fc16e924c1c17f8cff26b3d50f9e88a34d1f06
+  PubNub: 1b6da1bb6a971214ab9fb42e40aed23f77438d26
+  SpeechKit: 62717350ae29e7002a8ac35970ce92dccf2d1b71
+  Stripe: 2bb9646115745d0ee8c7799e6872c57ba5dc6cc5
+  TwitterCore: a139904c80805ad3dde9eef1100704f96f646d1d
+  TwitterKit: 1cf9742edf9d182c1518cfdd6aaac0dfe313b38b
+
+PODFILE CHECKSUM: 11e248d63ab263d895f65141053fcd4c5856d9db
+
+COCOAPODS: 1.0.1
